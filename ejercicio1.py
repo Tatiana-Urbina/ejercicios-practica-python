@@ -36,6 +36,10 @@ print(borde_siguiente(8, 10))"""
 
 #EJERCICIO 7
 #Escribe una función que se convierta hoursen segundos.
-def segundos(horas):
+"""def segundos(horas):
     return horas * 3600
-print(segundos(10))
+print(segundos(10))"""
+
+#EJERCICIO 8
+#Cree una función que tome una variable booleana flagy la devuelva como una cadena.
+
